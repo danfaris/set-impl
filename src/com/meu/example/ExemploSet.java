@@ -18,6 +18,8 @@ public class ExemploSet {
 		set.add("Primeiro");
 		set.add("Segundo");
 		set.add("Terceiro");
+		set.add("quinto");
+		
 		
 		System.out.println(set);
 		
